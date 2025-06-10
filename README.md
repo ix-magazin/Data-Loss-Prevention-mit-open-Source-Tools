@@ -1,6 +1,6 @@
 # Data-Loss-Prevention-mit-open-Source-Tools
 
-Quellcode zum [Titel-Artikel](https://www.heise.de/select/ix/2025/8/2509805383698504791) von Markus Stubbig, erschienen auf [Heise+](Platzhalter) und im [iX-Magazin 08/2023](https://www.heise.de/select/ix/2025/8).
+Quellcode zum [Artikel](https://www.heise.de/select/ix/2025/8/2509805383698504791) von Markus Stubbig, erschienen auf [Heise+](Platzhalter) und im [iX-Magazin 08/2023](https://www.heise.de/select/ix/2025/8).
 
 ## iX-tract
 - Data Loss Prevention verhindert den Abfluss sensibler Daten über erlaubte Kommunikationskanäle.
